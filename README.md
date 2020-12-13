@@ -1,2 +1,2 @@
 # technologie-management
-重庆国科管理系统
+重庆国科后台管理系统
